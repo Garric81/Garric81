@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Garric81/Garric81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Garric81/Garric81** 
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
+* [ ]  Пройти курс Ansibal
+* [ ]  пройти курс по Этническому  Хакингу
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
