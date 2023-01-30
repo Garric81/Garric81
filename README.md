@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 * [ ]  Выучить  язык Python
 * [ ]  Понять язык GO
 * [ ] Понять JAVA
+* [ ] Docker
+* [ ] Terrafom
 * [ ] Пройти курс по Git на Slurm
 * [x] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
