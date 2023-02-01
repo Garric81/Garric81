@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 * [ ]  Понять язык GO
 * [ ] Понять JAVA
 * [ ] Docker
-* [ ] Terrafom
+* [ ] Terrafom and AWS
 * [x] Пройти курс по Git на Slurm частично  пройден :)
 * [ ] k8    
 <!-- TODO-IST:END -->
