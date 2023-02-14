@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 * [ ]  Инфобез ИБ (https://github.com/Garric81/soc.git)
 * [x]  GIT (понимание сеть :))
 * [ ]  Пройти курс Ansibal (куча проектов  а вернее макарон)
-* [ ]  пройти курс по Этническому  Хакингу
+* [x]  Пройти курс по Этническому  Хакингу. Это хобби. Kali linux  pentest.
 * [ ]  Выучить  язык Python
 * [ ]  Понять язык GO
 * [ ]  Понять JAVA
@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 * [ ]  Pipeline
 * [ ]  BitBucket
 * [ ]  Nexus
-* [ ]  OpenShift (оркестрация  docker) 
+* [ ]  OpenShift (оркестрация пока не разобрался немного только поигрался https://www.redhat.com/en/interactive-labs/get-started-red-hat-openshift-developers ) 
 <!-- TODO-IST:END -->
