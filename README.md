@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 * [ ]  Docker
 * [ ]  Terrafom and AWS
 * [x]  Пройти курс по Git на Slurm частично  пройден :)
-* [ ]  k8  
-* [ ]  OpenShift  
+* [ ]  DevOps & DevSecOPS (залипательные  штуки)
+* [ ]  k8  (kube оркестрация  docker) 
+* [ ]  OpenShift (оркестрация  docker) 
 <!-- TODO-IST:END -->
