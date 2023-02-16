@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 * [ ]  Powershell (по мелочи)  
 * [ ]  Инфобез ИБ (https://github.com/Garric81/soc.git)
 * [x]  GIT (понимание сеть :))
-* [ ]  Пройти курс Ansibal (куча проектов  а вернее макарон)
+* [ ]  Пройти курс Ansibal (куча проектов  а вернее макарон. https://github.com/Garric81/DEV_Ansible.git Попробовал поработать с AWX)
 * [x]  Пройти курс по Этническому  Хакингу. Это хобби. Kali linux  pentest.
 * [ ]  Выучить  язык Python
 * [ ]  Понять язык GO
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 * [ ]  Docker
 * [ ]  Terrafom and AWS
 * [x]  Пройти курс по Git на Slurm частично  пройден :)
-* [ ]  DevOps & DevSecOPS (залипательные  штуки)
+* [ ]  DevOps & DevSecOPS (залипательные  штуки https://github.com/Garric81/DevOps.git)
 * [ ]  k8  (kube оркестрация  docker)
 * [ ]  PostgreSQL
 * [ ]  Kafka
