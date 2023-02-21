@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 * [x]  GIT (понимание сеть :))
 * [ ]  Пройти курс Ansibal (куча проектов  а вернее макарон. https://github.com/Garric81/DEV_Ansible.git Попробовал поработать с AWX)
 * [x]  Пройти курс по Этническому  Хакингу. Это хобби. Kali linux  pentest.
-* [ ]  Выучить  язык Python
+* [ ]  Выучить  язык Python. Прохожу курс  на яндекс практикум и Stepik. https://github.com/Garric81/Python
 * [ ]  Понять язык GO
 * [ ]  Понять JAVA
 * [ ]  Docker
