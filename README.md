@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 * [ ]  k8  (kube оркестрация  docker)
 * [ ]  PostgreSQL
 * [ ]  Kafka
-* [x]  Zabbix ( не скажу  что АС  ставил  настраивал  работать  умею) 
+* [x]  Zabbix ( не скажу  что АС, ставил, настраивал, работать умею ) 
 * [ ]  Jenkins
 * [ ]  Pipeline
 * [ ]  BitBucket
