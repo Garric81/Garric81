@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 * [ ]  Выучить  язык Python. Прохожу курс  на яндекс практикум и Stepik. https://github.com/Garric81/Python
 * [ ]  Понять язык GO
 * [ ]  Понять JAVA
-* [ ]  Docker
+* [ ]  Docker (demo https://github.com/Garric81/docker-demo.git)
 * [ ]  Terrafom and AWS
 * [x]  Пройти курс по Git на Slurm частично  пройден :)
 * [ ]  DevOps & DevSecOPS (залипательные  штуки https://github.com/Garric81/DevOps.git)
