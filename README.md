@@ -108,15 +108,15 @@ Here are some ideas to get you started:
 * [x] AWS (пробовал  работал но давно :( )  
 * [x]  Прокачать свой профиль на Git Hub ( по мелочи качаю) 
 * [x]  Создать свой первый проект на Git Hub (созал но много мусора)
-* [ ]  Powershell (по мелочи изучал https://github.com/Garric81/Powershell.git)  
-* [ ]  Инфобез ИБ (https://github.com/Garric81/soc.git)
+* [x]  Powershell (по мелочи изучал https://github.com/Garric81/Powershell.git)  
+* [x]  Инфобез ИБ (https://github.com/Garric81/soc.git)
 * [x]  GIT (понимание сеть :))
-* [ ]  Пройти курс Ansibal (куча проектов  а вернее макарон. https://github.com/Garric81/DEV_Ansible.git Попробовал поработать с AWX )
+* [x]  Пройти курс Ansibal (куча проектов  а вернее макарон. https://github.com/Garric81/DEV_Ansible.git Попробовал поработать с AWX )
 * [x]  Пройти курс по Этническому  Хакингу. Это хобби. Kali linux  pentest.
 * [ ]  Выучить  язык Python. Прохожу курс  на яндекс практикум и Stepik. https://github.com/Garric81/Python
 * [ ]  Понять язык GO
 * [ ]  Понять JAVA
-* [ ]  Docker (demo https://github.com/Garric81/docker-demo.git)
+* [x]  Docker (demo https://github.com/Garric81/docker-demo.git) макарошки
 * [ ]  Terrafom and AWS
 * [x]  Пройти курс по Git на Slurm частично  пройден :)
 * [ ]  DevOps & DevSecOPS (залипательные  штуки https://github.com/Garric81/DevOps.git)
