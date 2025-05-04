@@ -126,8 +126,7 @@ Here are some ideas to get you started:
 * [x]  Пройти курс по Git на Slurm частично  пройден :)
 * [ ]  DevOps & DevSecOPS (залипательные  штуки https://github.com/Garric81/DevOps.git)
 * [ ]  k8  (kube оркестрация  docker)
-* [ ]  PostgreSQL
-* [ ]  Kafka
+* [x]  Kafka
 * [x]  Zabbix ( не скажу  что АС, ставил, настраивал, работать умею ) 
 * [ ]  Jenkins
 * [ ]  Pipeline
